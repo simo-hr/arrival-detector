@@ -4,6 +4,7 @@
     "exec": "ts-node ./src/index.ts"
   },
   "dependencies": {
+    "@line/bot-sdk": "^7.5.2",
     "dotenv": "^16.0.3",
     "playwright": "^1.27.1"
   },
